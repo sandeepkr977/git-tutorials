@@ -10,8 +10,3 @@ git commit -m "comment"
 
 git push origin master
 
-git branch
-
-git checkout {BRANCH_NAME}
-
-git fetch origin
