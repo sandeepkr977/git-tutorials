@@ -7,6 +7,3 @@ git remote add origin https://github.com/sandeepkr977/git-tutorials.git
 git add .
 
 git commit -m "comment"
-
-git push origin master
-
